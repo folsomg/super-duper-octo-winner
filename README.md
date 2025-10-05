@@ -18,7 +18,7 @@ npm start
 ## Features
 
 - Feature 1
-- Feature 2
+- Feature 2 // updated
 - Feature 3
 
 ## License
