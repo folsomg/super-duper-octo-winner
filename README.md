@@ -10,7 +10,7 @@ npm install
 
 ## Usage
 
-\`\`\`bash
+\`\`\`bash // updated
 npm start
 \`\`\`
 
