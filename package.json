@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "MIT",
+  "license": "MIT", // updated
   "dependencies": {},
   "devDependencies": {}
 }
